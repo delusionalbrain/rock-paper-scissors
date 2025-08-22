@@ -1,2 +1,1 @@
-A very simple rock-paper-scissors game
-unfinished as of now
+This is a very simple rock and scissors game where we have managed to play against a character from a film 'Mean Girls'
